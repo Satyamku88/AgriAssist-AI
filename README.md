@@ -37,6 +37,7 @@ Data sources: IMD India, NASA Earthdata
 Inspired by: Digital Green, PMFBY digitization initiatives
 
 🌟 Together, let's make farming smarter and farmers stronger!
+
 🛠️ Installation & Setup
 
  1. Clone Repository
